@@ -27,3 +27,4 @@ env/bin/jupyter-notebook
 env/bin/jupyter-qtconsole
 env/bin/jupyter-run
 env/bin/jupyter-serverextension
+data/listings2.csv
